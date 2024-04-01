@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="my_primary">#e6edc5</color>
-    <color name="my_secondary">#c5edcd</color>
+    <color name="my_primary">#212421</color>
+    <color name="my_secondary">#e6edc5</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="grey">#ebedf0</color>
 </resources>
+
+    <!--#adedb2-->
